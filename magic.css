@@ -211,9 +211,6 @@ body:before{
   .imposter, .victory, .name {
     zoom: 60%;
   }
-  .name {
-    margin-top: 400px;
-  }
   .background {
     zoom: .7;
     margin-top: 10px;
